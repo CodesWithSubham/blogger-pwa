@@ -1,14 +1,14 @@
 {
-  "name": "My Blog",
+  "name": "Anix7 Photos",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Anix7 Photos",
+  "description": "Anix7 Photos is your go-to destination for high-quality anime images and wallpapers. Discover a wide range of stunning, carefully curated photos from your favorite series, all available for free download. Enhance your collection and bring your favorite anime moments to life with Anix7 Photos.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://photos.anix7.site/?utm_source=homescreen",
+  "scope": "https://photos.anix7.site/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -119,7 +119,7 @@
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://photos.anix7.site/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://photos.anix7.site/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
