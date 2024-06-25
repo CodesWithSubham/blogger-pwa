@@ -23,9 +23,9 @@ const pwaConfig: Config = {
       url: '/search/label/Girl?utm_source=homescreen',
     },
     {
-      name: 'Anime Girls Photos',
-      shortName: 'Anime Girls Photos',
-      description: 'Anime Girls Photos',
+      name: 'Anime Boys Photos',
+      shortName: 'Anime Boys Photos',
+      description: 'Anime Boys Photos',
       url: '/search/label/Boy?utm_source=homescreen',
     },
   ],
