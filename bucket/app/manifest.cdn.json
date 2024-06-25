@@ -6,7 +6,7 @@
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "any",
+  "orientation": "natural",
   "start_url": "https://photos.anix7.site/?utm_source=homescreen",
   "scope": "https://photos.anix7.site/",
   "display": "standalone",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://photos.anix7.site/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Anime Girls Photos",
+      "short_name": "Anime Girls Photos",
+      "description": "Anime Girls Photos",
+      "url": "https://photos.anix7.site/search/label/Girl?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://photos.anix7.site/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Anime Girls Photos",
+      "short_name": "Anime Girls Photos",
+      "description": "Anime Girls Photos",
+      "url": "https://photos.anix7.site/search/label/Boy?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
