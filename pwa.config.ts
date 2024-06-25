@@ -2,15 +2,15 @@ import type { Config } from '@/types';
 
 const pwaConfig: Config = {
   version: '1.0',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Anix7 Photos',
+  shortName: 'Anix7 Photos',
+  description: 'Anix7 Photos is your go-to destination for high-quality anime images and wallpapers. Discover a wide range of stunning, carefully curated photos from your favorite series, all available for free download. Enhance your collection and bring your favorite anime moments to life with Anix7 Photos.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
-  orientation: 'any',
+  
   scope: '/',
   startUrl: '/?utm_source=homescreen',
   appleStatusBarStyle: 'black-translucent',
@@ -39,7 +39,7 @@ const pwaConfig: Config = {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://photos.anix7.site/',
 };
 
 export default pwaConfig;
